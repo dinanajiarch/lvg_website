@@ -1,0 +1,28 @@
+---
+title: "News and Updates"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+-   Preprint posted: [The Utility of Latent Class Analysis to Understand Heterogeneity in Youth's Coping Strategies: A Methodological Introduction](https://osf.io/t8ver).
+
+    -   Supplementary materials [linked here](https://osf.io/7gvm3/) (MplusAutomation). 
+
+-   Congrats to **Karen Nylund-Gibson** for winning campus wide "Outstanding Mentoring Award"
+
+-   Congrats **Delwin Carter** who won the Excellence in Teaching and Mentoring award! Very well deserved!
+
+-   10 FAQs about LCA is published! Get it [here](https://lvgucsb.weebly.com/uploads/4/1/9/6/41962047/10_lca_faqs_tips_in_press.pdf)!
+
+-   **Adam Garber** successfully defended his MA thesis! Congrats Adam!
+
+-   Dr. Stephanie Moore's [LTA ](https://www.sciencedirect.com/science/article/pii/S0022440519300147)paper is published.  
+
+-   Our distal outcome paper! Just accepted to the *SEM* journal. Linked [here](https://www.dropbox.com/s/uojeqdboznk732i/Distal%20paper%20in%20press%20SEM.pdf?dl=0).
+
+-   ​Congrats to **Dr. Andy Choi** for successfully defending her dissertation! 
+
+-   Congrats to **Dr. Sabrina Lui** for successfully defending her dissertation!
