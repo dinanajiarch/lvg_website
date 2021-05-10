@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   **Adam Garber** successfully defended his MA thesis! Congrats Adam!
 
--   Dr. Stephanie Moore's [LTA ](https://www.sciencedirect.com/science/article/pii/S0022440519300147)paper is published.  
+-   Dr. Stephanie Moore's [LTA](https://www.sciencedirect.com/science/article/pii/S0022440519300147)paper is published.  
 
 -   Our distal outcome paper! Just accepted to the *SEM* journal. Linked [here](https://www.dropbox.com/s/uojeqdboznk732i/Distal%20paper%20in%20press%20SEM.pdf?dl=0).
 
